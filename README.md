@@ -28,7 +28,8 @@ Here are the tools and technologies I'm learning and working with:
 
 ## 📂 My Projects
 - 🔢 **[Python Calculator](https://github.com/gopalkrushnap167-droid/calculator-project)** — A menu-driven calculator with multiple operations
-- 🎬 **[Netflix Landing Page Clone](https://github.com/gopalkrushnap167-droid/netflix-landing-page-clone.git)** — A simple and clean landing page inspired by Netflix, built using **HTML & CSS**.  
+- 🎬 **[Netflix Landing Page Clone](https://github.com/gopalkrushnap167-droid/netflix-landing-page-clone.git)** — A simple and clean landing page inspired by Netflix, built using **HTML & CSS**.
+                                     — 🔗[Live Demo](https://gopalkrushnap167-droid.github.io/netflix-landing-page-clone/ ) 
 - 🔐 **Password Manager (in progress)**  
 
 ---
